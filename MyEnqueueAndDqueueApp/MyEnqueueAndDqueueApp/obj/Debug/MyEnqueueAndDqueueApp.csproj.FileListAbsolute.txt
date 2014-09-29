@@ -1,0 +1,9 @@
+E:\Practics\MyEnqueueAndDqueueApp\MyEnqueueAndDqueueApp\bin\Debug\MyEnqueueAndDqueueApp.exe.config
+E:\Practics\MyEnqueueAndDqueueApp\MyEnqueueAndDqueueApp\obj\Debug\MyEnqueueAndDqueueApp.csprojResolveAssemblyReference.cache
+E:\Practics\MyEnqueueAndDqueueApp\MyEnqueueAndDqueueApp\obj\Debug\MyEnqueueAndDqueueApp.EnqueueDequeAppUI.resources
+E:\Practics\MyEnqueueAndDqueueApp\MyEnqueueAndDqueueApp\obj\Debug\MyEnqueueAndDqueueApp.Properties.Resources.resources
+E:\Practics\MyEnqueueAndDqueueApp\MyEnqueueAndDqueueApp\obj\Debug\MyEnqueueAndDqueueApp.csproj.GenerateResource.Cache
+E:\Practics\MyEnqueueAndDqueueApp\MyEnqueueAndDqueueApp\bin\Debug\MyEnqueueAndDqueueApp.exe
+E:\Practics\MyEnqueueAndDqueueApp\MyEnqueueAndDqueueApp\bin\Debug\MyEnqueueAndDqueueApp.pdb
+E:\Practics\MyEnqueueAndDqueueApp\MyEnqueueAndDqueueApp\obj\Debug\MyEnqueueAndDqueueApp.exe
+E:\Practics\MyEnqueueAndDqueueApp\MyEnqueueAndDqueueApp\obj\Debug\MyEnqueueAndDqueueApp.pdb
